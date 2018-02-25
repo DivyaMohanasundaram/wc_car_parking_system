@@ -1,6 +1,5 @@
-# CarParking System.
-
-   # The endpoint is being calculated base on Direction Mapping as follows
+# CarParking System
+   # The endpoint is being calculated base on Direction Mapping as follows
 
             N                           Vertical
             |                           |
